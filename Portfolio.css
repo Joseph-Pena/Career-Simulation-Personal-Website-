@@ -27,3 +27,27 @@
 #navbar a:hover {
   color: rgb(0, 0, 0);
 }
+
+.project {
+  border-style: double;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 1px;
+}
+
+section {
+  border: 2px black groove;
+  padding: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
